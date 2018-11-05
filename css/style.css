@@ -2,4 +2,7 @@
    font-size: 24px;
 }
 
+div {
+   /* Two times the size set in the :root rule above. */
+   font-size: 2rem;
 }
