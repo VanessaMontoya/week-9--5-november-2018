@@ -2,14 +2,4 @@
    font-size: 24px;
 }
 
-em {
-   background-color: yellow;
-   /* Items that are positioned relatively observe
-      offset properties. They don’t break the flow
-      of its parent element. They contribute to
-      the height and width of their parent. And,
-      they obey the stacking context (z-index). */
-   position: relative;
-   bottom: 20px;
-   right: 20px;
 }
