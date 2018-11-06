@@ -4,12 +4,4 @@
 
 em {
    background-color: yellow;
-   /* Items that are positioned statically ignore
-      offset properties. Thus, top and left do not
-      shift this element. */
-   position: static;
-   top: 1000000px;
-   left: 10000000px;
-
-   z-index: 30;
 }
