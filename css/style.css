@@ -28,3 +28,8 @@
    transform: rotate(30deg);
 }
 
+#container > div:last-of-type {
+   background-color: yellow;
+   bottom: 300px;
+   transform: rotate(45deg);
+}
