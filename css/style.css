@@ -11,3 +11,8 @@
    height: 100px;
    position: relative;
 }
+
+#container > div:first-of-type {
+   background-color: red;
+}
+
