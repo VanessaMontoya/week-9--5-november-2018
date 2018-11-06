@@ -6,5 +6,8 @@
    background-color: rgb(240, 240, 240);
 }
 
+#container > div {
+   width: 100px;
+   height: 100px;
    position: relative;
 }
